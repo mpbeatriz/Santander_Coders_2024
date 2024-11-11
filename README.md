@@ -37,4 +37,10 @@ Conteúdo didático do curso:
   - Apache Spark;
   - Arquitetura orientada a eventos;
   - Apache Kafka.
+
+* Módulo V: Analytics Engineering
+  - Boas Práticas Para Tratamento de Dados (Analytics);
+  - Data Quality, Data Clean e Testes;
+  - Validando dados com Great Expectations;
+  - Especializando dados através do dbt - data build tool.
   
