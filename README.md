@@ -43,4 +43,15 @@ Conteúdo didático do curso:
   - Data Quality, Data Clean e Testes;
   - Validando dados com Great Expectations;
   - Especializando dados através do dbt - data build tool.
+ 
+* Módulo VI: Big Data
+  - Big Data;
+  - Apache Hadoop;
+  - Cloud computing;
+  - Databricks;
+  - Apache Hive;
+  - Spark;
+  - Delta Lake;
+  - Otimizações e Engenharia de Dados com Spark;
+  - Spark Streaming.
   
